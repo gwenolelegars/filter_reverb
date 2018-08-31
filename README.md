@@ -1,4 +1,4 @@
-# Digital Audio Coding Notebooks
+# Digital Audio Reverb Filter
 
 Context: [Digital Audio Coding][audio] course (Mines ParisTech/S1916)
 
